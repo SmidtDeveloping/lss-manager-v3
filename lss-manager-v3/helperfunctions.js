@@ -920,7 +920,8 @@ if (I18n.locale == 'en_US') {
         'Reiterstaffel',
         'Bergrettungswache',
         'Seenotrettungswache',
-        'Hubschrauberstation (Seenotrettung)'
+        'Hubschrauberstation (Seenotrettung)',
+        'Autobahnpolizei'
     ];
 
     lssm.carsById = {
@@ -1108,6 +1109,7 @@ if (I18n.locale == 'en_US') {
         181: ['MzGW (FGr BrB)', 3],
         182: ['Mobilkran', 3],
         183: ['Anh Plattform (FGr BrB)', 3],
+        184: ['FuStW (AP)', 2]
     };
 }
 lssm.getVehicleNameById = function (vehicleId) {

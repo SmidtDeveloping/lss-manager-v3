@@ -65,7 +65,8 @@
                 24: 'Reiterstaffel',
                 25: 'Bergrettungswache',
                 26: 'Seenotrettungswache',
-                28: 'Hubschrauberstation (Seenotrettung)'
+                28: 'Hubschrauberstation (Seenotrettung)',
+                29: 'Autobahnpolizei'
             },
         },
     };

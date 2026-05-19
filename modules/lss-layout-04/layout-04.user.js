@@ -31,6 +31,8 @@
         '#mission_list_alliance_event{order:4}' +
         '#mission_list_sicherheitswache,#mission_list_sicherheitswache_alliance{order:5}' +
         '#missions-panel-body > [id*="mission_list"]:not(:has(> .missionSideBarEntry:not(.hidden))) {display: none !important}' +
+        '#patient_no_transports{display:none!important}' +
+        '#critical_no_transports{display:none!important}' +
         '</style>'
     );
 
