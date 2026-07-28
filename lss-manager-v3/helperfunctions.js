@@ -889,7 +889,8 @@ if (I18n.locale == 'en_US') {
         100: ['GGB', 1],
         101: ['NHT', 1],
         102: ['MC-Ambulance', 1],
-        103: ['MICU', 1]
+        103: ['MICU', 1],
+        104: ['DB-DRONE', 0]
     };
 } else if (I18n.locale == 'de_DE') {
     lssm.buildingTypes = [

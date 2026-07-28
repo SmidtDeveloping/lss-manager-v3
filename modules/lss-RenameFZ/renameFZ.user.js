@@ -962,7 +962,7 @@
                         custom_function: function () {
                             $(
                                 `[id^=${LSS_RENAMEFZ_STORAGE}_renameFz_vehicleTypes-].lssm_setting_line`
-                            ).toggle();
+                            ).toggle(); 
                         },
                     },
                 },
