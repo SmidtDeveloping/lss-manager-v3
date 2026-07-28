@@ -29,8 +29,8 @@
 // @match        https://www.larmcentralen-spelet.se/*
 // @match        https://www.112-merkez.com/*
 // @match        https://www.dyspetcher101-game.com/*
-// @updateURL    https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js
-// @downloadURL  https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js
+// @updateURL    https://github.com/SmidtDeveloping/lss-manager-v3/raw/master/lssm-v3.user.js
+// @downloadURL  https://github.com/SmidtDeveloping/lss-manager-v3/raw/master/lssm-v3.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==

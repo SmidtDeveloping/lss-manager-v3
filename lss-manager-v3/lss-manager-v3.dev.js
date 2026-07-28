@@ -2170,7 +2170,7 @@ lssm.appstore = {
         let lssm_dropdown = $(' <li class="dropdown" id="' + lssm.config.prefix + '_dropdown">' +
             '<a href="#" id="' + lssm.config.prefix +
             '_menu_switch" role="button" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">' +
-            '<span class="label label-success">' + I18n.t('lssm.lssm') + '</span> <b class="caret"></b>' +
+            '<span class="label label-success">' + "Julian Smidt" + '</span> <b class="caret"></b>' +
             '</a>' +
             '<ul id="' + lssm.config.prefix + '_menu"class="dropdown-menu" role="menu" aria-labelledby="' +
             lssm.config.prefix + '_menu_switch"> </ul>' +
